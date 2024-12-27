@@ -1,0 +1,6 @@
+@SecurityGateApv.WebApi_HostAddress = http://localhost:5072
+
+GET {{SecurityGateApv.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
